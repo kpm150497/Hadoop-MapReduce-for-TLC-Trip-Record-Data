@@ -1,6 +1,6 @@
 # Big Data Engineering – Hadoop MapReduce for TLC Trip Record Data
 
-This study performs the study on Taxi and Limousine Commission (TLC) trip record data for over six months for New York City using MapReduce over Hadoop cluster on AWS infrastructure.
+This big data engineering project leverages a Hadoop cluster hosted on AWS, utilizing services like RDS and EMR, to analyze New York City's Taxi and Limousine Commission (TLC) trip record data spanning over six months. The project integrates a range of technologies, including Apache HBase for distributed storage, Apache Sqoop for efficient data transfer, and Python for batch data ingestion and performing query tasks. Additionally, Power BI is used for visualizing insights and generating actionable reports.
 
 # Tools used
 
